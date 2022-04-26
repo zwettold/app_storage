@@ -1,0 +1,9 @@
+name: app_storage
+description: A structured key-value store, intended for managing and persisting user's preferences.
+version: 0.1.0+1
+publish_to: none
+repository: https://github.com/zwett/app_storage/tree/main/packages/app_storage
+homepage: https://github.com/zwett/app_storage
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
